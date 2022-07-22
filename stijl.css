@@ -1,0 +1,46 @@
+h1 {
+  background-color: red;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 80%;
+  border-radius: 5px;
+  color: white;
+}
+#kop1p {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-radius: 5px;
+  width: 70%;
+  background-color: pink;
+}
+header {
+  margin-top: 10px;
+}
+footer {
+  background-color: red;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 80%;
+  border-radius: 5px;
+  color: white;
+}
+#linksmid {
+  background-color: pink;
+  border-radius: 5px;
+  margin-left:  auto;
+  margin-right: auto;
+  width: 49%;
+  margin-bottom: 10px;
+}
+#rechtsmid {
+  background-color: orange;
+  border-radius: 5px;
+  margin-right: auto;
+  margin-left:  auto;
+  width: 49%;
+  margin-bottom: 10px;
+  padding-bottom: 15px;
+}
